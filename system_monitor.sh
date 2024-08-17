@@ -6,7 +6,7 @@
 #                  than the threshold then it shows the actual usage in the 
 #                  standard output.
 #
-# Maintainer:      Your Name (piyushbagani15@gmail.com)
+# Maintainer:      Piyush Bagani (piyushbagani15@gmail.com)
 # Date:            August 17, 2024
 # Version:         1.0
 # -----------------------------------------------------------------------------
