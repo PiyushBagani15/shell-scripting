@@ -11,6 +11,10 @@
 # Version:         1.0
 # -----------------------------------------------------------------------------
 
+# Set the debug mode and error mode
+set -xe 
+set -o pipefail
+
 # Set thresholds for CPU, memory, and disk usage
 CPU_THRESHOLD=80
 MEM_THRESHOLD=80
